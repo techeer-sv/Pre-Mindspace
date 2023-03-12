@@ -1,0 +1,6 @@
+[submodule "Mindspace_front"]
+	path = Mindspace_front
+	url = https://github.com/techeer-sv/Mindspace_front.git
+[submodule "Mindspace_backend"]
+	path = Mindspace_backend
+	url = https://github.com/techeer-sv/Mindspace_backend.git
