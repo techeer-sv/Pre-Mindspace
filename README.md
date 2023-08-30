@@ -23,18 +23,60 @@
 
 ### 로그인
 
-![로그인](https://github.com/suhyeon0921/nest-practice/assets/105929978/47b2cfe5-d410-4735-b0b5-a3883de04696)
+<br>
+
+<img src="https://github.com/suhyeon0921/nest-practice/assets/105929978/47b2cfe5-d410-4735-b0b5-a3883de04696" width="100%">
+
 <br>
 
 ### 회원가입
 
-![회원가입](https://github.com/suhyeon0921/nest-practice/assets/105929978/15384cf3-4be2-4d6a-8942-d5b2a122b8d4)
+<br>
+
+<img src="https://github.com/suhyeon0921/nest-practice/assets/105929978/15384cf3-4be2-4d6a-8942-d5b2a122b8d4" width="100%">
+
+<br>
+
+### 메인
+
+<br>
+
+<img src="https://github.com/techeer-sv/Mindspace/assets/78795820/2178bb42-1977-4547-a93c-712c298bd894" width="100%">
+
+<br>
+
+### 글 작성
+
+<br>
+
+<img src="https://github.com/techeer-sv/Mindspace/assets/78795820/a51f7add-f63a-4e2f-80f5-d012bc3fa66a" width="100%">
+
+<br>
+
+### 글 삭제
+
+<br>
+
+<img src="https://github.com/techeer-sv/Mindspace/assets/78795820/9c4b1813-d084-4d36-87de-08b5a275d00a" width="100%">
+
+<br>
+
+### 글 리스트 조회
+
+<br>
+
+<img src="https://github.com/techeer-sv/Mindspace/assets/78795820/2ea0b2c2-b07d-4ffe-8fe9-f468d2cf4272" width="100%">
+
+
+
+<br>
 
 <hr>
 
 ## **System Architecture**
 
 ![System Architecture](https://github.com/techeer-sv/Mindspace/assets/105929978/e07a2c01-8c98-4888-aa1f-f372922c5ff8)
+
 
 <br>
 
