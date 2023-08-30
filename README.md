@@ -41,7 +41,7 @@
 
 <br>
 
-<img src="https://github.com/techeer-sv/Mindspace/assets/78795820/2178bb42-1977-4547-a93c-712c298bd894" width="100%">
+<img src="https://github.com/techeer-sv/Mindspace/assets/78795820/6dfe0d91-bd85-47e7-bef1-d92b72af44d0" width="100%">
 
 <br>
 
@@ -49,7 +49,7 @@
 
 <br>
 
-<img src="https://github.com/techeer-sv/Mindspace/assets/78795820/a51f7add-f63a-4e2f-80f5-d012bc3fa66a" width="100%">
+<img src="https://github.com/techeer-sv/Mindspace/assets/78795820/6d171bcb-c68f-4b5b-9875-774b224a1633" width="100%">
 
 <br>
 
